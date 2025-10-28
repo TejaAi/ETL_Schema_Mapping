@@ -1,0 +1,5 @@
+{
+    "source_input_path": "D:\\Ascent_projects\\Hack_etl\\Data\\source\\synthetic_us_health_insurance.csv",
+    "transformed_output_path": "D:\\Ascent_projects\\Hack_etl\\Data\\Transformation\\transformed_data.csv",
+    "destination_output_path": "D:\\Ascent_projects\\Hack_etl\\Data\\Destination\\final_data.csv"
+}

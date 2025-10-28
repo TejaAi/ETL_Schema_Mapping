@@ -1,0 +1,101 @@
+MRN,SSN,First_Name,Last_Name,Age,Gender,Policy_Number,Policy_Type,Premium_Amount,Coverage_Start_Date,Coverage_End_Date,Medical_Specialty,Provider_Name,Hospital_Name,City,State,Zip_Code,Claim_History,Chronic_Condition,Contact_Number
+664368,262-29-7026,Cameron,Hawkins,69,Female,POL7690096,PPO,1416.33,2023-04-18,2026-11-27,Orthopedics,Smith LLC,Ford-Huynh Hospital,Parkerville,MA,33429,Low,No,(677)597-1815
+171169,362-76-7557,Amanda,Johnson,32,Other,POL0344840,PPO,1220.94,2025-02-07,2027-01-10,Pediatrics,"Mitchell, Phillips and Baker","Williams, Barber and Barber Hospital",North Lindaberg,RI,29128,High,Yes,001-758-584-4311x2696
+352551,035-41-2002,Jessica,Macias,89,Other,POL5037057,HMO,1069.68,2023-11-13,2026-03-04,Dermatology,Owens and Sons,"Jackson, Salinas and Phillips Hospital",Jessicaborough,OK,33835,Medium,No,888.775.7574x412
+298687,817-92-6296,Carly,Barrett,78,Male,POL5797288,POS,954.89,2022-12-19,2026-06-10,Neurology,"Larsen, Branch and Barker",Hunt Group Hospital,North Kayla,SC,38486,Medium,Yes,126-311-2067x23115
+617248,058-32-0140,Robert,Barnett,38,Other,POL3245077,PPO,683.97,2023-03-10,2026-01-26,Oncology,White-White,Ayala Group Hospital,North Geoffreychester,NE,13785,Low,No,3388435609
+839545,509-94-8505,Shannon,Wagner,41,Male,POL0154378,POS,1422.17,2022-01-22,2027-08-11,Dermatology,"Walters, Baker and Mccarty","Schroeder, Davidson and Lee Hospital",East Nathantown,MT,09201,High,No,1828571946
+751969,144-56-2817,Ashley,Cooper,20,Other,POL0907447,PPO,1465.76,2022-06-09,2027-09-09,Oncology,Miller-Walls,Thomas-Johnson Hospital,Whitebury,MA,37474,Medium,Yes,001-118-971-5968x94084
+671326,379-08-8530,Nicole,Jones,39,Female,POL4656135,POS,569.1,2024-02-19,2026-09-18,Orthopedics,"Crawford, Roberts and Larsen",Smith-Hansen Hospital,South Jennifer,CT,58109,High,No,695.311.5906x7214
+905687,420-87-0306,Allison,Jones,70,Other,POL0548517,EPO,596.97,2025-05-25,2027-08-10,Pediatrics,"Martinez, Walker and Powers","Graves, Gonzalez and Russo Hospital",Ramoschester,NY,55513,High,Yes,001-129-877-8870x95926
+125103,578-52-7593,Tracy,Leblanc,19,Male,POL0503431,POS,831.3,2025-09-19,2027-08-17,Cardiology,Peterson-Jones,Jackson-Reeves Hospital,Lake Robert,NM,05652,Low,No,232-049-7346x823
+848216,788-75-3383,Joel,Ward,47,Male,POL3099502,EPO,782.95,2020-12-01,2027-09-05,Pediatrics,Shelton PLC,Kim-Gonzalez Hospital,South Charlesstad,NV,64725,Medium,No,(192)627-3759
+921270,161-89-4757,Jessica,Miranda,55,Female,POL9100742,EPO,1492.79,2021-05-14,2026-08-31,Dermatology,Patterson LLC,Walker Ltd Hospital,Port Lisa,NE,38728,Low,Yes,001-041-289-6125x73355
+300816,376-89-9822,Richard,Johnson,19,Other,POL9906891,POS,428.7,2021-03-29,2027-09-04,Oncology,Jordan-Mercado,Olson-Sparks Hospital,South Nicholasfort,NM,11626,Medium,Yes,596-601-5691
+606881,883-32-9003,Lisa,Jordan,81,Other,POL2155007,EPO,223.5,2021-03-05,2026-11-04,Oncology,Smith and Sons,"Sanchez, Proctor and Romero Hospital",Lake Nancyview,UT,26952,Medium,Yes,(694)887-5015x8793
+965040,681-34-1246,Toni,Jones,77,Female,POL3930246,HMO,842.06,2023-01-02,2025-10-19,Neurology,Ward-Wallace,Young Inc Hospital,New Davidhaven,WI,61410,Medium,No,001-946-604-6571
+692960,105-19-8638,Laurie,Walker,38,Other,POL4981970,EPO,432.47,2024-12-07,2026-05-05,Oncology,"Miller, Baker and Sharp",Peterson Inc Hospital,Pachecoview,UT,59145,Medium,Yes,7073036234
+881661,458-57-9822,Edgar,Rogers,50,Other,POL9654348,PPO,676.41,2022-09-12,2026-08-24,Neurology,"Sanders, Bryant and Hayes",Walter-Crawford Hospital,Lucasshire,HI,66966,Medium,No,001-210-967-5106x891
+805313,676-64-7781,Christopher,Berg,75,Male,POL5716577,POS,1167.42,2025-07-12,2027-01-22,Orthopedics,"Johnston, Adams and Gutierrez","Jones, Hebert and Walters Hospital",Port Michaelhaven,NJ,37609,High,No,(690)866-0915x5566
+336331,652-47-3404,Jesus,Robinson,39,Other,POL4630111,HMO,1137.22,2024-09-20,2027-01-07,Cardiology,Ramsey-Young,"Smith, Jackson and Wilson Hospital",North James,WI,80091,Low,Yes,+1-189-140-9234x10922
+243327,695-47-3831,Jennifer,Brown,66,Other,POL4982675,POS,600.48,2021-05-27,2026-08-07,Dermatology,Donaldson and Sons,Estes LLC Hospital,North John,MI,37300,High,Yes,702-153-5536x4678
+976686,323-95-3145,Ethan,Ford,76,Female,POL1003387,PPO,905.3,2024-05-27,2027-05-17,Neurology,Williams-Ryan,Coleman-Wallace Hospital,Jesustown,FL,51592,Medium,No,637-075-7788
+428018,349-56-6501,Nicholas,Perry,59,Female,POL0418715,PPO,861.46,2023-03-08,2026-03-14,Cardiology,Oconnor-Preston,"Arnold, Anderson and Martin Hospital",East Joseton,MI,74103,Low,No,001-682-614-0393x0106
+450659,089-41-7004,Deanna,Deleon,77,Male,POL7389929,PPO,1027.23,2024-09-22,2026-12-25,Oncology,Perry-Schultz,"Monroe, Porter and Wolf Hospital",North Rebeccaton,OH,66639,Medium,Yes,6570221016
+387590,779-51-6823,Lori,Stein,32,Other,POL9771355,EPO,525.6,2025-07-22,2026-10-24,Oncology,Ortiz Group,Thomas LLC Hospital,East Rodney,UT,87015,Low,Yes,001-502-270-8127x671
+132985,518-80-2566,Tammy,Mcdaniel,79,Other,POL6434421,EPO,966.83,2024-02-09,2027-03-30,Cardiology,Weber Group,Byrd Group Hospital,Nicholasfurt,KS,64485,High,Yes,+1-291-237-3307x08375
+281908,353-72-4884,Douglas,Collins,79,Other,POL8763366,POS,1472.56,2022-02-08,2025-11-28,Oncology,Bennett LLC,Adams-Meza Hospital,North Christine,MD,56735,Low,Yes,(640)920-8454x00415
+892083,201-92-5787,Jessica,Aguilar,64,Male,POL4003170,POS,832.76,2021-12-09,2026-05-17,Orthopedics,Pearson PLC,"Aguirre, Payne and Murray Hospital",New Rachel,IA,75366,Low,Yes,626-458-2213x26760
+266282,452-18-4738,Scott,Montgomery,79,Male,POL0916053,HMO,1377.93,2024-01-11,2025-12-15,Orthopedics,"Hill, Marsh and Gibson",Wade-Romero Hospital,Audreychester,GA,19161,Low,No,001-531-194-7401x395
+356400,519-71-6939,Anthony,Bryant,68,Female,POL2507250,HMO,764.71,2022-03-13,2027-06-24,Cardiology,"Sanders, Owens and Saunders","Ferrell, Reeves and Miller Hospital",Buckleyhaven,TX,36031,Low,No,3296249944
+115682,614-18-8939,Robin,Maldonado,72,Male,POL9384226,POS,655.1,2025-06-10,2027-03-15,Neurology,"Miller, Castro and Sparks",Wu-Dawson Hospital,Lisastad,GA,53943,Low,No,447-680-2256x601
+397041,483-55-7298,Denise,Nelson,81,Other,POL4129505,EPO,1038.63,2022-04-30,2027-04-14,Neurology,Bennett Ltd,Briggs Group Hospital,North Deannafurt,MI,36721,Medium,No,200-669-7411
+989854,816-70-9569,Sarah,Smith,20,Other,POL2964439,PPO,1069.6,2021-04-10,2027-08-11,Cardiology,Mendez and Sons,Frazier-Meza Hospital,Bonnieburgh,NM,40710,Low,Yes,(760)711-0667
+814967,062-56-2638,Dustin,Lopez,68,Male,POL9147565,POS,1323.42,2024-09-10,2027-07-29,Neurology,Lambert-Brock,Harris-Gray Hospital,East Bryan,UT,47553,Low,Yes,(688)759-0772
+950888,603-15-6161,Hunter,Walsh,24,Other,POL4926091,HMO,499.24,2022-03-13,2026-06-18,Neurology,Harding Ltd,Jones-Tran Hospital,New Jose,IL,41535,High,Yes,0283296425
+112983,415-67-2145,Jennifer,Smith,38,Other,POL1723167,EPO,848.95,2022-11-14,2026-01-08,Orthopedics,"Miller, Webster and Moore",Hansen-Craig Hospital,East Jessicachester,IN,98320,Low,No,(442)985-0949x39879
+157722,650-17-8268,Leslie,Lowery,56,Male,POL7069885,POS,943.61,2024-03-24,2027-07-06,Neurology,Bryant Inc,Brooks Group Hospital,Port Juliefort,NM,31583,High,No,+1-046-378-2380x2057
+483414,622-81-3892,Catherine,Deleon,35,Male,POL6409109,POS,1199.12,2021-06-25,2027-01-26,Pediatrics,Schaefer-Robinson,Long-Smith Hospital,West Ashley,AL,84704,Medium,Yes,001-376-353-5443x65473
+693823,224-15-4362,Laura,Daniels,21,Other,POL5799087,EPO,256.68,2024-11-24,2026-01-10,Dermatology,Stokes Ltd,Harrison-Lewis Hospital,Gilesbury,MS,40137,Low,Yes,001-512-785-9776
+458578,361-98-7607,Kristen,Smith,77,Other,POL1823501,POS,1492.92,2024-02-19,2026-02-21,Oncology,"Fry, Thomas and Floyd","Jones, Hanson and Peterson Hospital",West Carrie,CA,78733,High,No,091-220-0751x1276
+995484,098-91-4334,Kellie,Berger,31,Other,POL0967825,EPO,810.93,2024-01-21,2026-10-23,Pediatrics,"Ho, Graham and Hunter",Brown PLC Hospital,Chrischester,GA,46278,High,No,534.864.0391x28782
+917301,752-90-8134,Bryce,Harris,26,Female,POL4452882,PPO,563.43,2023-06-08,2026-01-03,Neurology,Roberts-Black,Burton Group Hospital,Ryanburgh,NJ,76275,Medium,Yes,163-690-0153x6787
+667992,283-99-5104,Ryan,Marshall,70,Female,POL5870105,EPO,1348.54,2024-08-28,2027-09-28,Orthopedics,Garcia Group,Taylor-White Hospital,Lake Shirleyton,MI,46248,Low,Yes,+1-706-324-8191
+934140,037-43-8038,Annette,Floyd,19,Female,POL5341036,EPO,1172.03,2025-08-11,2027-01-14,Cardiology,Vargas-Robles,Mills Ltd Hospital,New Michaelville,VT,92423,Low,No,534-811-2427x924
+215665,847-25-3879,Kayla,Mercado,77,Male,POL9605597,EPO,1438.99,2024-01-22,2026-11-09,Neurology,Taylor-Rodriguez,"Garcia, Jimenez and Nelson Hospital",East Robertstad,ND,93555,High,Yes,085-837-3779x571
+458262,188-18-8113,Allen,Lee,88,Female,POL4911362,POS,629.98,2021-10-09,2026-12-25,Orthopedics,"Warner, Williams and Harrington",White PLC Hospital,Weaverbury,NM,84718,Low,Yes,(822)555-2887x898
+510882,574-17-6852,Karen,Sanchez,61,Male,POL3680666,POS,918.59,2021-06-17,2026-11-05,Dermatology,Smith-Reid,Marshall Ltd Hospital,Tatemouth,UT,24792,High,Yes,271.486.3694
+926576,714-76-8846,Jeremiah,Martinez,25,Male,POL4278411,EPO,943.98,2023-09-24,2026-06-16,Neurology,"Clark, Campbell and Best",Larsen-Shaw Hospital,South Gregory,WI,26848,Low,No,(096)060-0327x3748
+154557,813-94-3859,Stacey,Floyd,64,Female,POL2760963,POS,1474.43,2024-09-28,2027-09-11,Cardiology,"Joseph, Leach and Johnson",Ramirez Ltd Hospital,Port Julie,AR,26310,High,No,046-771-4796x78886
+687836,194-50-3131,Amy,Parsons,52,Female,POL0644364,HMO,297.95,2023-03-01,2026-04-21,Orthopedics,"Holmes, Willis and Jones","Foster, Mcguire and Rogers Hospital",Lake Rebeccastad,CA,66071,Low,No,(015)780-4833x6840
+546274,286-78-4731,James,Bowers,53,Female,POL8786695,HMO,597.41,2025-07-08,2027-03-03,Orthopedics,"James, Patterson and Moreno",Mclaughlin-Rogers Hospital,Conradshire,MO,97054,Medium,No,192.167.9790x0255
+288971,561-34-9982,James,Estrada,67,Other,POL6785538,POS,448.18,2021-06-24,2025-10-25,Orthopedics,Martin Inc,"Owens, Clay and Donaldson Hospital",Phillipsburgh,IA,39519,Low,No,118-137-7952x4449
+685804,720-23-9121,Paul,Perry,21,Female,POL1147409,POS,549.02,2022-06-05,2027-01-19,Dermatology,Nelson PLC,"Smith, Williams and Kim Hospital",Pattersontown,FL,11841,Low,No,+1-684-407-0200x262
+423166,419-48-0093,Anthony,Carter,19,Other,POL1805459,EPO,830.86,2023-07-31,2026-06-08,Neurology,Alvarez PLC,Evans PLC Hospital,Juanland,NC,52879,Medium,No,001-223-673-9031
+385638,676-29-1953,Vicki,White,23,Male,POL8481483,PPO,684.49,2021-12-16,2026-01-09,Dermatology,Maxwell Inc,Brown-Lam Hospital,West Peterville,MS,17157,Low,Yes,625-584-8067
+964001,419-77-1629,Hannah,Lane,71,Other,POL7740162,POS,713.1,2022-06-17,2026-02-25,Oncology,"Montoya, Cole and Rodriguez","Williams, Smith and Blackwell Hospital",Lake Jamesburgh,LA,54297,Medium,Yes,(878)190-1687x777
+724183,217-87-0388,Derrick,Bowman,21,Female,POL4759429,HMO,1297.48,2023-01-08,2026-11-14,Oncology,"Ross, Warner and Adams","Simmons, Johnson and Sampson Hospital",Cookburgh,NH,92651,Low,Yes,+1-981-752-3938
+425115,576-58-0082,Ronald,Dennis,71,Male,POL6637168,EPO,1409.02,2021-09-15,2027-03-27,Neurology,Davis Ltd,White-Green Hospital,Smithberg,CT,59495,High,Yes,(329)816-3945x11740
+822986,340-29-7152,Megan,Johnson,80,Male,POL5776976,POS,291.54,2021-04-28,2026-12-14,Dermatology,Mccoy Inc,Anderson Group Hospital,West Davidchester,WV,06429,High,Yes,778.340.4151
+806835,503-21-3977,Stephen,Sellers,35,Male,POL3828554,HMO,471.59,2021-04-18,2026-06-29,Cardiology,"Fischer, Taylor and Abbott",Davis Inc Hospital,West Thomas,FL,81360,Low,Yes,7209546335
+169332,855-35-6961,Mariah,Smith,61,Other,POL7756128,HMO,1072.49,2025-07-23,2025-12-03,Orthopedics,"Parker, Smith and Terry",Cox Ltd Hospital,East Victoriashire,VT,59777,Low,Yes,272.493.6924x3912
+267626,621-37-8528,Kara,Schultz,51,Female,POL8461933,PPO,666.24,2021-01-22,2026-05-09,Orthopedics,Martin Ltd,"Jenkins, Fletcher and Weber Hospital",New Joanna,GA,92110,Low,No,+1-493-606-0027x492
+329811,831-16-1067,Kimberly,Rich,79,Male,POL9635146,EPO,530.41,2022-08-23,2027-06-12,Neurology,"Alexander, Fisher and Wright","Collins, Hill and Fields Hospital",Lake Patricia,NV,59754,High,No,001-351-990-3672x89572
+661027,756-46-4827,Lance,Nelson,31,Male,POL7899923,EPO,583.88,2021-06-06,2027-10-02,Oncology,"Hubbard, Wood and Moses",Page-Miller Hospital,Contrerasstad,WI,52685,Low,Yes,3579800293
+155077,743-97-1000,Paige,Chambers,65,Male,POL5828356,PPO,619.32,2021-02-04,2026-02-12,Oncology,Allen-Stephenson,Long-Wilkinson Hospital,Gilmoreview,OR,82039,High,Yes,001-341-885-4842
+790623,608-40-0142,Whitney,Barton,32,Other,POL5936875,PPO,1303.27,2021-05-05,2026-06-27,Orthopedics,"Berry, Caldwell and Williams","White, Gibson and Montgomery Hospital",South Sergio,RI,20205,Medium,No,139.608.6957
+687412,185-28-4338,Miranda,Watson,89,Other,POL9860220,EPO,377.61,2024-11-25,2027-04-14,Neurology,Romero-Stanley,"Williams, Stout and Lawrence Hospital",East Annachester,MN,11433,High,Yes,701.167.6006x296
+918847,464-80-9110,Seth,Johnson,79,Female,POL3857122,EPO,1121.58,2024-07-20,2026-12-16,Dermatology,"Steele, Thomas and Schwartz",Woodard Group Hospital,Port Jamesberg,KY,08609,High,Yes,+1-361-732-5599x58887
+106594,755-54-5464,Julie,Stephens,57,Other,POL0980733,POS,918.67,2021-07-09,2026-08-31,Oncology,"Nunez, Robertson and Brandt","Clark, Brown and Long Hospital",New Ariel,OH,17496,Medium,No,001-990-345-9556x42686
+718064,342-83-9763,Katelyn,Flores,70,Male,POL6307221,POS,585.46,2025-08-06,2026-01-06,Dermatology,Harris Ltd,Knapp-Morgan Hospital,West Geraldmouth,UT,03435,High,Yes,0489990433
+967346,011-19-0829,Karen,Moreno,41,Female,POL5360143,PPO,745.72,2021-09-27,2026-10-27,Oncology,Anderson-Gardner,"Hill, May and Little Hospital",New Christopher,NM,88705,Low,No,001-493-922-2165
+423040,501-32-4312,Stacey,Phillips,43,Male,POL5903762,POS,533.07,2025-09-20,2026-07-04,Oncology,"Hunter, Davis and Gill",Farmer-Howell Hospital,Michaelfort,NV,45494,Low,Yes,339.419.3101
+888222,198-13-7242,Hannah,Scott,77,Male,POL0997758,HMO,994.97,2024-02-10,2026-03-18,Pediatrics,Little-Horn,Vega-Garcia Hospital,Port Jackton,ID,65202,High,No,431-810-0880x46724
+743466,384-83-5729,Kim,Daniel,58,Other,POL2867497,POS,306.07,2020-12-10,2026-03-03,Oncology,Barker LLC,"Gilbert, Zimmerman and Vaughn Hospital",New Kathyburgh,MI,43907,Low,No,(241)235-8832
+959616,511-31-9495,Jonathan,Huber,46,Female,POL7719105,POS,206.74,2021-12-12,2027-02-09,Cardiology,Charles LLC,Espinoza Group Hospital,South Douglas,MD,96422,High,No,(198)661-7895
+251676,016-87-5999,Jonathan,Thomas,32,Other,POL1867467,HMO,1016.26,2021-10-27,2027-04-03,Neurology,"Martinez, Harris and Gutierrez","Parker, Griffin and Jackson Hospital",Woodsstad,IL,13374,Low,Yes,001-267-779-9527
+818795,497-43-2160,Kimberly,Alexander,62,Other,POL5490867,PPO,452.56,2023-11-30,2027-04-26,Neurology,Jenkins-Chapman,"Barker, Murray and Sweeney Hospital",South Kayla,ME,71376,Low,No,165.299.9950x8204
+609648,848-04-2766,Robert,Jefferson,82,Female,POL9184692,HMO,292.22,2023-09-12,2027-09-25,Dermatology,"Hicks, Nguyen and Meza","Martin, Morgan and Potts Hospital",North Richard,AL,29686,High,Yes,+1-178-472-1402x90984
+521591,726-77-4555,Candice,Howe,88,Male,POL9072836,POS,715.82,2023-02-11,2027-03-21,Oncology,Sherman-Cummings,"Mcneil, Wise and Wood Hospital",Moorestad,NY,80707,Low,Yes,507.339.3462x3574
+762794,130-37-6408,Sean,Bridges,26,Male,POL4840565,PPO,266.0,2023-12-09,2026-07-07,Cardiology,Erickson Inc,Johnston Ltd Hospital,Brendaport,NY,13914,High,Yes,(594)296-1488x9682
+852763,259-56-4481,Travis,Pierce,18,Female,POL9726211,POS,1352.6,2021-09-23,2026-09-11,Dermatology,Mendez and Sons,Love-Zamora Hospital,Jessicaburgh,IL,22295,Low,Yes,3108518969
+274644,228-39-7263,Kaitlin,Sanchez,25,Male,POL7387484,HMO,235.9,2023-12-03,2026-03-25,Pediatrics,Ashley-Hopkins,Morgan Ltd Hospital,Port Jenniferfurt,GA,94981,Low,No,001-156-018-5745x792
+617487,720-92-3382,Brooke,Johnson,80,Female,POL0410573,HMO,952.52,2024-05-10,2027-05-30,Dermatology,Hanson-Owens,Brown-Davis Hospital,Drakeville,ID,18013,Medium,No,(521)530-4365
+567502,632-49-3913,Walter,Keller,28,Female,POL6306925,POS,770.02,2024-10-18,2027-06-24,Dermatology,"Davidson, Garcia and Hunt",Silva Ltd Hospital,South Sarah,CT,29778,Medium,Yes,451.086.6597
+602440,316-74-6412,Stacy,Rice,25,Other,POL5192445,EPO,1073.63,2025-08-04,2026-04-27,Oncology,Wu LLC,"Williams, Shah and Christian Hospital",North Valeriehaven,NE,16824,High,Yes,+1-011-878-4256x51605
+369667,239-91-2677,Christy,Lucas,52,Female,POL8883480,EPO,626.6,2023-06-14,2026-09-09,Pediatrics,Ross Group,Wilson Group Hospital,Lake Elizabethchester,VA,11204,Medium,No,542-367-8985
+715604,146-21-0639,Diana,Walters,52,Other,POL5804451,HMO,401.55,2023-06-15,2026-09-28,Dermatology,Williams PLC,Stokes-Lloyd Hospital,North Monicastad,DC,07152,High,Yes,001-684-452-9156x3269
+514747,228-14-1247,Mackenzie,Hunter,50,Male,POL3658013,HMO,1476.39,2024-12-13,2026-04-21,Cardiology,Pugh LLC,Perez PLC Hospital,Tinamouth,AK,91590,Medium,No,+1-984-101-5896x03223
+236218,337-79-0140,Robert,Weber,22,Male,POL9708140,EPO,1290.61,2024-04-14,2026-06-02,Cardiology,Nash Group,"Brooks, Walters and Moss Hospital",South Tinastad,WA,27541,Low,Yes,001-597-073-7783x10913
+405551,259-04-4727,Heather,Pope,58,Male,POL0143859,EPO,1318.53,2022-11-08,2027-07-01,Neurology,Thomas-Hall,"Hanna, Jackson and Williams Hospital",South Aliciaport,NH,64327,High,Yes,(789)496-8324x566
+334178,773-62-2078,Anthony,Thomas,45,Male,POL2923221,POS,525.33,2021-11-14,2027-07-16,Pediatrics,"Lutz, Lee and Johnson",Guzman-Miller Hospital,Nicholashaven,WY,28004,High,No,6246390927
+238252,450-18-7836,Alex,Brown,24,Other,POL6161264,POS,250.49,2021-09-05,2026-04-27,Pediatrics,"Harris, Silva and Elliott",Wilson-Dillon Hospital,Randallstad,VT,77645,Low,Yes,435-477-2223x02421
+247330,408-72-4834,Brenda,Smith,89,Male,POL1978101,EPO,594.25,2025-05-09,2025-11-08,Neurology,Edwards-Stewart,Lewis LLC Hospital,New Deborahhaven,MO,58762,High,No,1579027678
+559430,357-60-2200,Tracy,Palmer,29,Female,POL4065649,POS,898.21,2024-03-27,2026-04-25,Dermatology,"Hamilton, Merritt and Hopkins",Christensen and Sons Hospital,South Nicoleton,WI,67441,High,Yes,518.942.3354x28253
+417909,899-16-0534,Savannah,Gray,51,Female,POL5432651,POS,624.65,2025-07-16,2027-07-06,Pediatrics,Marks and Sons,"Smith, Baldwin and Gilbert Hospital",Huffmanburgh,WI,57603,Medium,Yes,001-053-849-9359
+740989,679-61-7441,Eric,Williams,50,Female,POL5358760,PPO,1276.23,2024-02-13,2026-08-16,Cardiology,"Martinez, Williams and Kaiser",Robbins Inc Hospital,New Kimberlyside,VA,01366,High,Yes,(219)258-9920
+904920,254-79-0172,Autumn,Simmons,65,Other,POL8326471,POS,553.01,2024-06-15,2025-12-29,Cardiology,Knight LLC,Martinez and Sons Hospital,South Audreystad,WV,45685,Low,No,594-568-6861x086
+525695,502-62-6033,Michael,Fischer,40,Male,POL6904119,HMO,1454.83,2022-04-27,2026-06-08,Oncology,Oliver LLC,Perez-Martin Hospital,North Jessicaton,VT,89504,Medium,Yes,739-928-9832x92393
+469396,856-74-8304,Anthony,Burton,79,Male,POL5434436,POS,794.44,2022-08-28,2027-05-04,Pediatrics,Curtis Ltd,"Glenn, White and Lopez Hospital",Judybury,SD,08186,Medium,Yes,354.849.3624x9100
+551560,886-81-1587,Jorge,Garcia,54,Male,POL0307284,POS,1294.63,2020-11-05,2027-05-16,Dermatology,"Reyes, Le and Richardson",Davies-Hamilton Hospital,Cummingston,MI,19644,Low,Yes,3778182404
+613633,216-19-6674,Krystal,Moran,61,Other,POL6271824,EPO,452.69,2025-05-09,2025-11-28,Neurology,Hardy-Cooley,Cummings-Miles Hospital,West Daniel,OK,56286,Low,Yes,(358)836-2535x30387

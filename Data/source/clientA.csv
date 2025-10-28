@@ -1,0 +1,11 @@
+clm_no,submission_dt,total_amt,amt_paid,reject_reason,insurance,prv_cd,pt_ref,state
+C1234,8/10/2024,450,400,,Aetna,PR567,PT432,Processed
+C1235,8/11/2024,700,700,,UnitedHealth,PR568,PT433,Paid
+C1236,8/12/2024,1200,0,Missing diagnosis code,BlueCross,PR569,PT434,Denied
+C1237,8/12/2024,900,850,,Cigna,PR570,PT435,Paid
+C1238,8/13/2024,500,0,Duplicate submission,Humana,PR571,PT436,Denied
+C1239,8/13/2024,350,350,,Aetna,PR567,PT437,Paid
+C1240,8/14/2024,780,760,,UnitedHealth,PR568,PT438,Processed
+C1241,8/14/2024,650,0,Service not covered,BlueCross,PR569,PT439,Denied
+C1242,8/15/2024,300,300,,Cigna,PR570,PT440,Paid
+C1243,8/15/2024,1000,950,,Humana,PR571,PT441,Processed

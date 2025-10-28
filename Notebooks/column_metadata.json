@@ -1,0 +1,227 @@
+[
+  {
+    "table": "dim_patient",
+    "name": "patient_sk",
+    "description": "Surrogate key"
+  },
+  {
+    "table": "dim_patient",
+    "name": "patient_id",
+    "description": "From EHR"
+  },
+  {
+    "table": "dim_patient",
+    "name": "full_name",
+    "description": "First + Last"
+  },
+  {
+    "table": "dim_patient",
+    "name": "gender",
+    "description": "M/F/Other"
+  },
+  {
+    "table": "dim_patient",
+    "name": "dob",
+    "description": "Date of birth"
+  },
+  {
+    "table": "dim_patient",
+    "name": "city",
+    "description": "Location"
+  },
+  {
+    "table": "dim_patient",
+    "name": "state",
+    "description": "Location"
+  },
+  {
+    "table": "dim_patient",
+    "name": "zip",
+    "description": "Location"
+  },
+  {
+    "table": "dim_patient",
+    "name": "age_group",
+    "description": "Derived (0\u201317, 18\u201340, etc.)"
+  },
+  {
+    "table": "dim_patient",
+    "name": "effective_from",
+    "description": "SCD Type 2 tracking"
+  },
+  {
+    "table": "dim_patient",
+    "name": "effective_to",
+    "description": "SCD Type 2 tracking"
+  },
+  {
+    "table": "dim_patient",
+    "name": "current_flag",
+    "description": "SCD Type 2 tracking"
+  },
+  {
+    "table": "dim_provider",
+    "name": "provider_sk",
+    "description": "Surrogate key"
+  },
+  {
+    "table": "dim_provider",
+    "name": "provider_id",
+    "description": "From EHR"
+  },
+  {
+    "table": "dim_provider",
+    "name": "provider_name",
+    "description": "Full name"
+  },
+  {
+    "table": "dim_provider",
+    "name": "specialty",
+    "description": "e.g., Cardiologist"
+  },
+  {
+    "table": "dim_provider",
+    "name": "npi_number",
+    "description": "Unique ID"
+  },
+  {
+    "table": "dim_provider",
+    "name": "facility_name",
+    "description": "Hospital/Clinic"
+  },
+  {
+    "table": "dim_provider",
+    "name": "effective_from",
+    "description": "SCD Type 2 tracking"
+  },
+  {
+    "table": "dim_provider",
+    "name": "effective_to",
+    "description": "SCD Type 2 tracking"
+  },
+  {
+    "table": "dim_provider",
+    "name": "current_flag",
+    "description": "SCD Type 2 tracking"
+  },
+  {
+    "table": "dim_payer",
+    "name": "payer_sk",
+    "description": "Surrogate key"
+  },
+  {
+    "table": "dim_payer",
+    "name": "payer_id",
+    "description": "From Insurance system"
+  },
+  {
+    "table": "dim_payer",
+    "name": "payer_name",
+    "description": ""
+  },
+  {
+    "table": "dim_payer",
+    "name": "plan_type",
+    "description": "Medicare, Medicaid, PPO, etc."
+  },
+  {
+    "table": "dim_payer",
+    "name": "payer_category",
+    "description": "Government / Commercial"
+  },
+  {
+    "table": "dim_payer",
+    "name": "state",
+    "description": "Operating region"
+  },
+  {
+    "table": "dim_payer",
+    "name": "effective_from",
+    "description": "SCD Type 2 tracking"
+  },
+  {
+    "table": "dim_payer",
+    "name": "effective_to",
+    "description": "SCD Type 2 tracking"
+  },
+  {
+    "table": "dim_payer",
+    "name": "current_flag",
+    "description": "SCD Type 2 tracking"
+  },
+  {
+    "table": "dim_encounter",
+    "name": "encounter_sk",
+    "description": "Surrogate key"
+  },
+  {
+    "table": "dim_encounter",
+    "name": "encounter_id",
+    "description": "From EHR"
+  },
+  {
+    "table": "dim_encounter",
+    "name": "encounter_type",
+    "description": "Inpatient / Outpatient"
+  },
+  {
+    "table": "dim_encounter",
+    "name": "visit_date_sk",
+    "description": "FK \u2192 dim_date"
+  },
+  {
+    "table": "dim_encounter",
+    "name": "provider_sk",
+    "description": "FK \u2192 dim_provider"
+  },
+  {
+    "table": "dim_encounter",
+    "name": "patient_sk",
+    "description": "FK \u2192 dim_patient"
+  },
+  {
+    "table": "dim_date",
+    "name": "date_sk",
+    "description": "Surrogate key"
+  },
+  {
+    "table": "dim_date",
+    "name": "date",
+    "description": "Calendar date"
+  },
+  {
+    "table": "dim_date",
+    "name": "day",
+    "description": "Standard breakdown"
+  },
+  {
+    "table": "dim_date",
+    "name": "month",
+    "description": "Standard breakdown"
+  },
+  {
+    "table": "dim_date",
+    "name": "quarter",
+    "description": "Standard breakdown"
+  },
+  {
+    "table": "dim_date",
+    "name": "year",
+    "description": "Standard breakdown"
+  },
+  {
+    "table": "dim_date",
+    "name": "day_of_week",
+    "description": "Monday, Tuesday\u2026"
+  },
+  {
+    "table": "dim_date",
+    "name": "is_weekend",
+    "description": "Y/N"
+  },
+  {
+    "table": "dim_date",
+    "name": "is_holiday",
+    "description": "Y/N"
+  }
+]

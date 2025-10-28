@@ -1,0 +1,11 @@
+claim_identifier,claim_submitted_on,billed,paid,denial_text,payer,provider_identifier,patient_identifier,claim_status
+X998,8/11/2024,250,0,Missing code,BlueCross,P1001,PT874,Denied
+X999,8/12/2024,600,600,,Aetna,P1002,PT875,Paid
+X1000,8/13/2024,900,850,,UnitedHealth,P1003,PT876,Processed
+X1001,8/14/2024,1200,0,Duplicate claim,Cigna,P1004,PT877,Denied
+X1002,8/15/2024,450,450,,Humana,P1005,PT878,Paid
+X1003,8/16/2024,800,780,,BlueCross,P1006,PT879,Processed
+X1004,8/17/2024,700,0,Invalid policy,Aetna,P1007,PT880,Denied
+X1005,8/18/2024,500,500,,UnitedHealth,P1008,PT881,Paid
+X1006,8/19/2024,950,0,Missing documentation,Cigna,P1009,PT882,Denied
+X1007,8/20/2024,400,390,,Humana,P1010,PT883,Processed
